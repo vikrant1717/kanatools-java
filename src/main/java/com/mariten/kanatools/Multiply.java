@@ -5,6 +5,7 @@ public class Multiply {
         int x=99;
 
         System.out.println("code issue");
+        
         return a * b;
     }
 }
