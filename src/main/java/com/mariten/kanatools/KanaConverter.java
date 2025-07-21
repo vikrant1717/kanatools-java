@@ -67,6 +67,8 @@ public class KanaConverter
     {
         // Don't perform conversions on empty string
         if(original_string.equals("")) {
+
+          System.out.println("response is at line 270:");
             return "";
         }
 
