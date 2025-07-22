@@ -232,3 +232,4 @@ public class KanaAppraiser
 }
 
 // modified for PR test
+// modified for PR test
