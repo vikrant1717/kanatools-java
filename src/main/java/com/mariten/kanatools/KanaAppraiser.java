@@ -230,3 +230,5 @@ public class KanaAppraiser
     }
     //}}}
 }
+
+// modified for PR test
